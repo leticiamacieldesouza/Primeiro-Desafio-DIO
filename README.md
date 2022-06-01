@@ -1,12 +1,8 @@
 <h1 align="center"> Primeiro Desafio DIO - Criação de repositório </h1>
 
-
+![Sem título](https://user-images.githubusercontent.com/100486813/171468801-7e0a3bfc-111e-40cd-b377-af9eb0d7e502.png)
 
 <p align="center">
-  <![Sem título](https://user-images.githubusercontent.com/100486813/171468801-7e0a3bfc-111e-40cd-b377-af9eb0d7e502.png) />
-</p>
-
-  <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
