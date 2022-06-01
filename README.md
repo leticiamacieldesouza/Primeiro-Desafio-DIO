@@ -20,6 +20,7 @@
 
 ## Módulo 1 - Principios de desenvolvimento de software
 
+[Introdução à Programação e Pensamento Computacional](https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf)
 
 ## Módulo 2 - Fundamentos Web com HTML e CSS
 
