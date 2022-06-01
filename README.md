@@ -21,8 +21,14 @@
 
 ## Módulo 1 - Principios de desenvolvimento de software
 
-[Introdução à Programação e Pensamento Computacional](https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf)
-[Artigo sobre programação](https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf)
+1.1. [Introdução à Programação e Pensamento Computacional](https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf)
+
+1.2. [Artigo sobre programação](https://ubiquity.acm.org/article.cfm?id=1922682)
+
+1.3. [História da computação](https://simplificandoredes.com/historia-da-computacao/)
+
+1.4. [Pensamento computacional](https://simplificandoredes.com/pensamento-computacional/))
+
 
 ## Módulo 2 - Fundamentos Web com HTML e CSS
 
