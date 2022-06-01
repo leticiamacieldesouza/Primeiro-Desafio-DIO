@@ -17,6 +17,7 @@
 
 ## Módulo 0 - Prepare-se para a jornada
 
+[Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
 
 ## Módulo 1 - Principios de desenvolvimento de software
 
