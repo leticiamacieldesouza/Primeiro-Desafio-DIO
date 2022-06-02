@@ -36,6 +36,7 @@
 
 2.2. [Criar página usando Accordion](https://jqueryui.com/tabs/)
 
+2.3. [Tutorial w3schools](https://www.w3schools.com/)
 
 ## Módulo 3 - Conhecendo a linguagem de programação JavaScript
 
