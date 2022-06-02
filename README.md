@@ -32,6 +32,10 @@
 
 ## Módulo 2 - Fundamentos Web com HTML e CSS
 
+2.1. [Importar jQuery](https://code.jquery.com/jquery-/)
+
+2.2. [Criar página usando Accordion](https://jqueryui.com/tabs/)
+
 
 ## Módulo 3 - Conhecendo a linguagem de programação JavaScript
 
