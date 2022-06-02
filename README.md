@@ -29,14 +29,14 @@
 
 1.4. [Pensamento computacional](https://simplificandoredes.com/pensamento-computacional/))
 
-1.5. [Importar jQuery](https://code.jquery.com/jquery-/)
-
-1.6. [Criar página usando Accordion](https://jqueryui.com/tabs/)
-
-1.7. [Tutorial w3schools](https://www.w3schools.com/)
 
 ## Módulo 2 - Fundamentos Web com HTML e CSS
 
+2.1. [Importar jQuery](https://code.jquery.com/jquery-/)
+
+2.2. [Criar página usando Accordion](https://jqueryui.com/tabs/)
+
+2.3. [Tutorial w3schools](https://www.w3schools.com/)
 
 ## Módulo 3 - Conhecendo a linguagem de programação JavaScript
 
